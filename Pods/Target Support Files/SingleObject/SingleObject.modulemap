@@ -1,0 +1,6 @@
+framework module SingleObject {
+  umbrella header "SingleObject-umbrella.h"
+
+  export *
+  module * { export * }
+}

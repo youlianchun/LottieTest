@@ -1,0 +1,6 @@
+framework module GCDWebHDServer {
+  umbrella header "GCDWebHDServer-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,30 @@
+PODS:
+  - GCDWebHDServer (0.2.1):
+    - GCDWebServer (= 3.5.2)
+  - GCDWebServer (3.5.2):
+    - GCDWebServer/Core (= 3.5.2)
+  - GCDWebServer/Core (3.5.2)
+  - lottie-ios (2.5.3)
+  - SingleObject (0.1.0)
+
+DEPENDENCIES:
+  - GCDWebHDServer (= 0.2.1)
+  - lottie-ios (= 2.5.3)
+  - SingleObject
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - GCDWebHDServer
+    - GCDWebServer
+    - lottie-ios
+    - SingleObject
+
+SPEC CHECKSUMS:
+  GCDWebHDServer: be5663df1012099c64b9b9703c86f465e1533836
+  GCDWebServer: ead88cd14596dd4eae4f5830b8877c87c8728990
+  lottie-ios: a50d5c0160425cd4b01b852bb9578963e6d92d31
+  SingleObject: 56d89081458f996dae2e285e396e0a285359f32f
+
+PODFILE CHECKSUM: ddc6ca79e287f0b1e26dbc39b68538274be106f3
+
+COCOAPODS: 1.7.0
